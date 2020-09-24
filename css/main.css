@@ -238,7 +238,7 @@ textarea {
 	line-height: 1;
 	color: #fff;
 	font-weight: 300;
-	background: #171085;
+	background: #2883dd;
 	border: none;
 	outline: none;
 	-webkit-border-radius: 5px;
@@ -333,9 +333,9 @@ html {
 
 body {
 	font-family: "Lato", sans-serif;
-	background-color: #0d086a;
-	background-image: -webkit-radial-gradient(farthest-side at 40% 40%, #221baa, rgba(67, 76, 181, 0));
-	background-image: radial-gradient(farthest-side at 40% 40%, #221baa, rgba(67, 76, 181, 0));
+	background-color: #2883dd;
+	background-image: -webkit-radial-gradient(farthest-side at 40% 40%, #04488b, rgba(67, 76, 181, 0));
+	background-image: radial-gradient(farthest-side at 40% 40%, #04488b, rgba(67, 76, 181, 0));
 	color: #fff;
 	position: relative;
 	overflow-x: hidden;
@@ -695,7 +695,7 @@ p.section-subtitle {
 	left: 0;
 	width: 50%;
 	height: 100vh;
-	background: #0d086a;
+	background: #2883dd;
 	transition: all 2s;
 }
 
@@ -817,7 +817,7 @@ p.section-subtitle {
 	width: 100%;
 	z-index: 99;
 	padding: 0;
-	background-image: linear-gradient(to bottom, #0d086a 35px, rgba(13, 8, 106, 0) 100%);
+	background-image: linear-gradient(to bottom, #2883dd 35px, rgba(13, 8, 106, 0) 100%);
 	background-repeat: repeat-x;
 }
 
@@ -930,7 +930,7 @@ p.section-subtitle {
 	top: 90%;
 	right: 0;
 	left: auto;
-	background-color: #1a1391;
+	background-color: #2883dd;
 	border: 1px solid rgba(52, 45, 179, 0.5);
 	min-width: auto;
 	padding: 10px 0;
@@ -1195,7 +1195,7 @@ p.section-subtitle {
 #clock span {
 	color: #fff;
 	display: block;
-	background: blue;
+	background: #2883dd;
 }
 
 /* -- Progressbar css -- */
@@ -1203,7 +1203,7 @@ p.section-subtitle {
 .progress {
 	width: 100%;
 	height: 1.8rem;
-	background-color: #140e7e;
+	background-color: #2883dd;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-ms-border-radius: 10px;
@@ -1213,7 +1213,7 @@ p.section-subtitle {
 
 .progress-bar {
 	width: 0;
-	background-image: linear-gradient(to right, #2735b5, #47d2f4);
+	background-image: linear-gradient(to right, #2883dd, #47d2f4);
 	background-repeat: repeat-x;
 	-webkit-border-radius: inherit;
 	-moz-border-radius: inherit;
@@ -1556,8 +1556,8 @@ p.section-subtitle {
 
 .o-common-card {
 	display: block;
-	background: #1a1391;
-	border: 1px solid #342db3;
+	background: #2883dd;
+	border: 1px solid #064585;
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
 	-ms-border-radius: 10px;
@@ -1568,7 +1568,7 @@ p.section-subtitle {
 
 .o-common-card .img-container {
 	position: relative;
-	background: #0d086a;
+	background: #2883dd;
 }
 
 .o-common-card .img-container img {
@@ -1587,7 +1587,7 @@ p.section-subtitle {
 	transform: rotateY(180deg);
 	padding: 20px;
 	height: 100%;
-	background-color: #1a1391;
+	background-color: #2883dd;
 	transition: all .8s;
 	opacity: 0;
 	display: -webkit-box;
